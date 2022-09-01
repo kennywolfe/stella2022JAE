@@ -1,0 +1,123 @@
+phyloorder,OTTid,OTTname,fg,originalname,class,phylum,logweight,avgsize,avgbio,avgwgt,mobility,diet,calcifier,chordate,segmented,legnum,symmetry,spines,shells,obligate associates
+123,1084481,Actiniaria,10,Actiniaria,Anthozoa,Cnidaria,-2.706348626,1.02,1.337271991,0.0021,0,1,0,0,0,0,0,0,0,0
+44,823226,Aglajidae,10,Aglajidae,Gastropoda,Mollusca,-2.298141668,5.4,3.39536731,0.005222222,4,3,0,0,0,1,0,0,0,0
+97,471793,Alpheidae,3,Alpheidae,Malacostraca,Arthropoda (Crustacea),-1.718869934,10.07650602,43.06105811,0.112831325,2,3,1,0,1,4,0,0,0,0
+12,884677,Amphinomidae,12,Amphinomidae,Polychaeta,Annelida,-2.31819044,7.534482759,12.16445408,0.008310345,2,3,0,0,1,0,0,0,0,0
+80,941215,Gammaridea,1,Amphipoda,Malacostraca,Arthropoda (Crustacea),-2.676421918,3.628222997,1.898228487,0.002810105,2,1,1,0,1,6,0,0,0,0
+45,126309,Anaspidea,10,Anaspidea,Gastropoda,Mollusca,-2.41195437,4.4,4.617141389,0.004,4,2,0,0,0,1,0,0,0,0
+70,755799,Anthuridae,1,Anthuridae,Malacostraca,Arthropoda (Crustacea),-2.7,5.36,2.417918322,0.0027,2,1,1,0,1,6,0,0,0,0
+51,830518,Aplustridae,6,Aplustridae,Gastropoda,Mollusca,-1.979303657,2.95,9.478441118,0.0105,4,3,1,0,0,1,0,0,1,0
+74,301631,Haploniscidae,1,Asellota,Malacostraca,Arthropoda (Crustacea),-2.980204688,3.425,1.898083527,0.002275,2,1,1,0,1,6,0,0,0,0
+118,831359,Cryptasterina,13,Asterinidae,Asteroidea,Echinodermata,-1.3007546,4.44,51.38270088,0.0749,2,1,0,0,0,2,1,0,0,0
+64,255553,Tridacnidae,8,Bivalvia,Bivalvia,Mollusca,-2.37517932,2.390909091,6.109964802,0.008454545,0,1,1,0,0,1,0,0,2,0
+110,867524,Blenniidae,11,Blennidae,Actinopterygii,Chordata,-1.508638306,14.1,18.1438841,0.031,1,1,0,1,0,0,0,0,0,0
+1,745874,Bonelliidae,12,Bonelliida,Polychaeta,Annelida,-2.541968662,3.266666667,3.796675662,0.005166667,3,0,0,0,1,0,0,0,0,0
+90,5799344,Hypoconchinae,1,Brachyura,Malacostraca,Arthropoda (Crustacea),-2.15490196,2.1,1.085315163,0.007,2,1,1,0,1,4,0,0,0,0
+26,376924,Buccinidae,6,Buccinidae,Gastropoda,Mollusca,-2.135094558,3.607142857,36.35431123,0.055928571,4,3,1,0,0,1,0,0,1,0
+43,848005,Bullidae,5,Bullidae,Gastropoda,Mollusca,-2.324834634,2.06875,4.114021203,0.007895833,4,2,1,0,0,1,0,0,1,0
+28,852134,Cancellariidae,6,Cancellariidae,Gastropoda,Mollusca,-2.347696977,2.874193548,3.178872101,0.005096774,4,3,1,0,0,1,0,0,1,0
+81,152663,Caprellidae,1,Caprellidae,Malacostraca,Arthropoda (Crustacea),-2.973823479,6.073913043,0.597498679,0.001086957,2,1,1,0,1,6,0,0,0,0
+65,5703923,Laevicardiinae,8,Cardiidae,Bivalvia,Mollusca,-1.71472853,3.15,13.03111693,0.0215,3,1,1,0,0,1,0,0,2,0
+66,542188,Chitonidae,5,Chitonidae,Polyplacophora,Mollusca,-1.962877955,6.127272727,42.40424409,0.055454545,4,2,1,0,0,1,0,0,1,0
+121,146859,Cidaridae,14,Cidaridae,Echinoidea,Echinodermata,-1.170064078,5.066666667,105.0553086,0.142833333,2,1,1,0,0,0,1,1,0,0
+4,1067346,Cirratulidae,12,Cirratulidae,Polychaeta,Annelida,-2.397940009,11.15,2.330807081,0.004,3,0,0,0,1,0,0,0,0,0
+24,140406,Columbellidae,7,Columbellidae,Gastropoda,Mollusca,-1.074198525,8.261111111,94.03932447,0.235777778,4,1,1,0,0,1,0,0,1,0
+23,700410,Conidae,6,Conidae,Gastropoda,Mollusca,-0.836938076,8.421052632,113.6213827,0.267,4,3,1,0,0,1,0,0,1,0
+16,788574,Costellariidae,6,Costellariidae ,Gastropoda,Mollusca,-2.330205456,3.803409091,6.133636417,0.009291667,4,3,1,0,0,1,0,0,1,0
+122,732545,Crinoidea,13,Crinoidea,Crinoidea,Echinodermata,-0.656360404,6.3,194.7685386,1.026,2,1,0,0,0,0,1,0,0,0
+77,619740,Cumacea,1,Cumacea,Malacostraca,Arthropoda (Crustacea),-2.397940009,6.4,2.514272192,0.004,2,0,1,0,1,4,0,0,0,0
+38,272319,Cypraeidae,7,Cypraeidae,Gastropoda,Mollusca,-0.912894449,8.4,417.684412,0.571,4,1,1,0,0,1,0,0,1,0
+120,631173,Diadematidae,14,Diadematidae,Echinoidea,Echinodermata,-2.28278659,2.642857143,4.448828865,0.006285714,2,1,1,0,0,0,1,1,0,0
+40,512263,Hydrococcidae,7,Dialidae,Gastropoda,Mollusca,-2.52547458,2.390909091,2.635624528,0.007969697,4,1,1,0,0,1,0,0,1,0
+93,5089719,Diogenes,2,Diogenidae,Malacostraca,Arthropoda (Crustacea),-0.299037743,14.71891892,481.0900276,1.183408108,2,1,1,0,1,4,0,0,1,0
+91,5799343,Dromiinae,1,Dromiidae,Malacostraca,Arthropoda (Crustacea),-1.651363087,3.642857143,19.83914668,0.037428571,2,1,1,0,1,4,0,0,0,0
+88,534671,Tiarinia,1,Epialtidae,Malacostraca,Arthropoda (Crustacea),1.5,3.4235,29.88948524,0.101823529,2,1,1,0,1,4,0,0,0,0
+29,828042,Calopiidae,6,Epitoniidae,Gastropoda,Mollusca,-1.823908741,8,3.69488978,0.015,4,3,1,0,0,1,0,0,1,0
+11,438827,Lysidice,12,Eunicidae,Polychaeta,Annelida,-2.581575832,6.733333333,0.946598999,0.002666667,3,1,0,0,1,0,0,0,0,0
+25,700418,Fasciolariidae,6,Fasciolariidae,Gastropoda,Mollusca,-1.850172035,4.394067797,21.11670071,0.034271186,4,3,1,0,0,1,0,0,1,0
+54,335843,Fissurellidae,6,Fissurellidae,Gastropoda,Mollusca,-1.516394642,5.278571429,58.25898242,0.234142857,4,4,1,0,0,1,0,0,1,0
+94,331357,Galathea,1,Galatheidae,Malacostraca,Arthropoda (Crustacea),-1.918996926,2.052968037,11.16044171,0.018739726,2,1,1,0,1,4,0,0,0,0
+56,935091,Liotiidae,7,Gastropoda,Gastropoda,Mollusca,-2.159097005,2.125,6.361562375,0.00725,4,1,1,0,0,1,0,0,1,0
+111,5554918,Gobiiformes,11,Gobiidae,Actinopterygii,Chordata,-1.543129164,12.72238806,26.06389139,0.04919403,1,3,0,1,0,0,0,0,0,0
+14,76597,Golfingiidae,10,Golfingiidae,Sipunculidea,Sipuncula,-2.093286646,12.525,2.01360061,0.0085,3,0,0,0,0,0,0,0,0,0
+101,42630,Gonodactylidae,3,Gonodactylidae,Malacostraca,Arthropoda (Crustacea),-1.958607315,9.2,15.83559332,0.011,3,3,1,0,1,4,0,0,0,0
+53,228111,Haliotidae,5,Haliotidae,Gastropoda,Mollusca,-1.593862007,4.494915254,29.58627702,0.045728814,4,2,1,0,0,1,0,0,1,0
+42,120642,Haminoeidae,5,Haminoeidae,Gastropoda,Mollusca,-2.278079646,2.7875,6.059540331,0.008125,4,2,1,0,0,1,0,0,1,0
+10,151154,Hesionidae,12,Hesionidae,Polychaeta,Annelida,-2.381715343,5.933333333,4.341076633,0.006888889,2,3,0,0,1,0,0,0,0,0
+98,566119,Hippolytidae,1,Hippolytidae,Malacostraca,Arthropoda (Crustacea),-2.280434636,6.636893204,6.910829714,0.01123301,2,1,1,0,1,4,0,0,0,0
+72,332917,Janiridae,1,Isopoda,Malacostraca,Arthropoda (Crustacea),-2.469282746,2.95323741,2.223447834,0.004151079,2,1,1,0,1,6,0,0,0,0
+73,3001647,Joeropsididae,1,Joeropsididae,Malacostraca,Arthropoda (Crustacea),-2.855641682,2.637931034,1.082908102,0.00162069,2,1,1,0,1,6,0,0,0,0
+107,501484,Labriformes,11,Labridae,Actinopterygii,Chordata,-1.522568105,12.4125,20.10009192,0.040714286,1,3,0,1,0,0,0,0,0,0
+61,124375,Limidae,8,Limidae,Bivalvia,Mollusca,-1.415598088,7.3,47.70522256,0.097882353,1,1,1,0,0,1,0,0,2,0
+39,415698,Littorinidae,5,Littorinidae,Gastropoda,Mollusca,-1.952878063,3.761538462,23.60144214,0.035846154,4,2,1,0,0,1,0,0,1,0
+87,7117261,Micippa,1,Majidae,Malacostraca,Arthropoda (Crustacea),-1.8,2.872,21.81704656,0.053772727,2,1,1,0,1,4,0,0,0,0
+18,623255,Mitridae,6,Mitridae,Gastropoda,Mollusca,-2.159389709,3.366764706,6.463314349,0.01225,4,3,1,0,0,1,0,0,1,0
+33,146150,Calyptraeidae,7,Mollusca,Mollusca,Mollusca,-1.822884337,4.12,8.435851525,0.0212,4,0,1,0,0,1,0,0,1,0
+106,191025,Monacanthidae,11,Monacanthidae,Actinopterygii ,Chordata,-1.388641764,7.05,100.3933213,0.1695,1,3,0,1,0,0,0,0,0,0
+20,426502,Muricidae,6,Muricidae,Gastropoda,Mollusca,-0.693126316,10.84047619,180.6541633,0.591904762,4,4,1,0,0,1,0,0,1,0
+76,42634,Mysida,1,Mysida,Malacostraca,Arthropoda (Crustacea),-2.530186248,5.242857143,1.48141155,0.003,2,1,1,0,1,4,0,0,0,0
+62,1025541,Mytilus,8,Mytilidae,Bivalvia,Mollusca,-1.468291894,6.920833333,45.49074757,0.129208333,0,1,1,0,0,1,0,0,2,0
+34,361914,Naticidae,6,Naticidae,Gastropoda,Mollusca,-1.91395195,3.7375,60.11478615,0.17325,4,3,1,0,0,1,0,0,1,0
+105,617247,Cucullanidae,10,Nematoda,Nematoda,Nematoda,-3,4.3375,0.877456879,0.001,2,1,0,0,0,0,0,0,0,0
+67,971440,Enopla,10,Nemertea,Nemertea,Nemertea,-2.707197165,13.3875,5.826213646,0.008,2,3,0,0,0,0,0,0,0,0
+6,741326,Nereididae,12,Nereididae,Polychaeta,Annelida,-2.508158379,9.552380952,3.444048337,0.006454545,2,1,0,0,1,0,0,0,0,0
+46,76753,Nudibranchia,10,Nudibranchia,Gastropoda,Mollusca,-1.944233955,7.784615385,11.68810563,0.018230769,4,3,0,0,0,1,0,0,0,0
+2,563197,Clitellata,12,Oligochaeta,Polychaeta,Annelida,-1.974821984,30.175,8.715445095,0.017666667,2,1,0,0,1,0,0,0,0,0
+17,504427,Olividae,6,Olividae,Gastropoda,Mollusca,-2.357258227,2.823076923,3.362223557,0.005538462,4,3,1,0,0,1,0,0,1,0
+116,817293,Ophiactidae,13,Ophiactidae,Ophiuroidea ,Echinodermata,-2.419437966,1.463043478,3.034115137,0.01073913,2,0,0,0,0,2,1,0,0,0
+117,987826,Ophidiasteridae,13,Ophidiasteridae,Asteroidea,Echinodermata,-0.267789185,7.533333333,589.8977079,0.935933333,2,0,0,0,0,2,1,0,0,0
+114,669480,Ophiocomidae,13,Ophiocomidae ,Ophiuroidea ,Echinodermata,-0.783361557,6.618181818,302.3048907,0.445272727,2,0,0,0,0,2,1,0,0,0
+112,308696,Ophiodermatidae,13,Ophiomyxidae ,Ophiuroidea ,Echinodermata,-1.665790634,3.140540541,30.11929781,0.094918919,2,1,0,0,0,2,1,0,0,0
+115,983023,Ophiotrichidae,13,Ophiotrichidae,Ophiuroidea ,Echinodermata,-0.570948055,5,64.67211372,0.273,2,1,0,0,0,2,1,0,0,0
+113,5926355,Ophionereididae,13,Ophiuroidea,Ophiuroidea ,Echinodermata,-2.552371728,1.405555556,4.91025797,0.008402778,2,1,0,0,0,2,1,0,0,0
+48,588315,Oxynoeidae,7,Opisthobranchia,Gastropoda,Mollusca,-2.09396655,6.2625,12.88041893,0.01825,4,1,1,0,0,1,0,0,1,0
+102,580068,Ostracoda,1,Ostracoda,Ostracoda,Arthropoda (Crustacea),-2.714587346,1.8875,1.187238383,0.002,2,1,1,0,1,5,0,0,0,0
+36,342479,Ovulidae,6,Ovulidae,Gastropoda,Mollusca,-2.397940009,1.8,2.397752963,0.004,4,3,1,0,0,1,0,0,1,0
+92,340328,Paguridae,2,Paguridae,Malacostraca,Arthropoda (Crustacea),-1.65660644,4.833333333,26.89057761,0.04925641,2,1,1,0,1,4,0,0,1,0
+96,83264,Palaemonoidea,1,Palaemonidae,Malacostraca,Arthropoda (Crustacea),-1.880292413,9.18,12.35438942,0.024994949,2,1,1,0,1,4,0,0,0,0
+71,97964,Paranthuridae,1,Paranthuridae,Malacostraca,Arthropoda (Crustacea),-2.8,3.975,1.053293891,0.00175,2,1,1,0,1,6,0,0,0,0
+78,1026716,Paratanaidae,3,Paratanaidae,Malacostraca,Arthropoda (Crustacea),-2.774227503,4.8,0.630640731,0.001,2,3,1,0,1,6,0,0,0,0
+52,717800,Patellidae,5,Patellidae,Gastropoda,Mollusca,-2.274227503,2.225,3.53292882,0.0055,4,2,1,0,0,1,0,0,1,0
+60,975312,Pectinidae,8,Pectinidae,Bivalvia,Mollusca,-1.503554946,6.754545455,28.02985301,0.139454545,1,1,1,0,0,1,0,0,2,0
+99,212710,Dendrobranchiata,1,Penaeidae,Malacostraca,Arthropoda (Crustacea),-1.987920877,9.56,7.706218586,0.0112,2,0,1,0,1,4,0,0,0,0
+15,247687,Phascolosomatidae,10,Phascolosomatidae,Phascolosomatidea ,Sipuncula,-2.377479,6.5,1.932605257,0.006,3,0,0,0,0,0,0,0,0,0
+55,2915453,Phasianellidae,5,Phasianellidae,Gastropoda,Mollusca,-2.215012657,3.384,9.654932054,0.02416,4,2,1,0,0,1,0,0,1,0
+5,890240,Phyllodocidae,12,Phyllodocidae,Polychaeta,Annelida,-1.143707244,8.866666667,34.34881325,0.2345,2,3,0,0,1,0,0,0,0,0
+82,284330,Pilumnidae,3,Pilumnidae ,Malacostraca,Arthropoda (Crustacea),-2.061889851,2.878571429,7.046998405,0.019105263,2,3,1,0,1,4,0,0,0,0
+50,583123,Plakobranchus,10,Plakobranchidae,Gastropoda,Mollusca,-2.698970004,4.1,0.880322101,0.002,4,2,0,0,0,1,0,0,0,0
+69,720419,Acotylea,10,Platyhelminthes,Platyhelminthes,Platyhelminthes,-2.247425011,6.4,3.938104776,0.009,1,3,0,0,0,0,0,0,0,0
+49,165261,Pleurobranchidae,10,Pleurobranchidae,Gastropoda,Mollusca,-2.698970004,2.6,0.860296066,0.0025,4,1,0,0,0,1,0,0,0,0
+9,4983148,Synsyllis,12,Polychaeta,Polychaeta,Annelida,-2.590187892,8.242346939,2.737656709,0.006326531,2,1,0,0,1,0,0,0,0,0
+7,1067347,Polynoidae,12,Polynoidae,Polychaeta,Annelida,-2.458916903,3.133333333,6.774608305,0.004,2,3,0,0,1,0,0,0,0,0
+108,769569,Pomacentridae,11,Pomacentridae,Actinopterygii ,Chordata,0.066,16.1,7.580366617,0.066,1,1,0,1,0,0,0,0,0,0
+95,211908,Porcellanidae,1,Porcellanidae,Malacostraca,Arthropoda (Crustacea),-2.061604235,1.725,4.576085362,0.00925,2,1,1,0,1,4,0,0,0,0
+86,706441,Portunidae,3,Portunidae,Malacostraca,Arthropoda (Crustacea),-1.872695576,5.111111111,26.74265192,0.0535,2,3,1,0,1,4,0,0,0,0
+41,2920127,Epigridae,7,Potamididae,Gastropoda,Mollusca,-2.235280514,3.384057971,12.70663075,0.036307971,4,0,1,0,0,1,0,0,1,0
+68,756231,Pseudocerotidae,10,Pseudocerotidae,Turbellaria ,Platyhelminthes,-1.613506313,11.1,46.25260046,0.0275,1,3,0,0,0,0,0,0,0,0
+59,645953,Pteriidae,8,Pteriidae,Bivalvia,Mollusca,-1.611924223,6.3,78.53016018,0.07525,0,1,1,0,0,1,0,0,2,0
+103,910210,Pycnogonida,3,Pycnogonida,Pynogonida ,Arthropoda (Crustacea),-2.810127482,0.522,1.717430999,0.00181,2,3,1,0,1,3,0,0,0,0
+47,701577,Cylichnidae,6,Pyramidellidae,Gastropoda,Mollusca,-2.4146065,2.964,2.903792415,0.0052,4,3,1,0,0,1,0,0,1,0
+35,5224244,Rissoinidae,7,Rissoinidae,Gastropoda,Mollusca,-2.666666667,1.833333333,2.952061928,0.002666667,4,0,1,0,0,1,0,0,1,0
+124,712383,Scleractinia,9,Scleractinia,Anthozoa,Cnidaria,-3,0.2125,0.628568048,0.001,0,1,1,0,0,0,0,0,0,0
+109,237338,Scorpaenoidei,11,Scorpaenidae,Actinopterygii,Chordata,-0.521476213,22.01428571,163.1670433,0.471714286,1,3,0,1,0,0,0,0,0,0
+13,802122,Sipunculus,10,Sipuncula,Sipunculidea,Sipuncula,-1.987259121,28.23333333,9.724868855,0.014666667,3,0,0,0,0,0,0,0,0,0
+75,351827,Stenetriidae,1,Stenetriidae ,Malacostraca,Arthropoda (Crustacea),-3,1.383333333,0.564431219,0.001,2,1,1,0,1,6,0,0,0,0
+100,325221,Lysiosquilloidea,3,Stomatopoda,Malacostraca,Arthropoda (Crustacea),-1.205510887,17.425,84.29410153,0.11225,3,3,1,0,1,4,0,0,0,0
+32,894558,Strombidae,5,Strombidae,Gastropoda,Mollusca,-1.233881597,8.2,95.29439876,0.12,4,2,1,0,0,1,0,0,1,0
+8,839640,Typosyllis,12,Syllidae,Polychaeta,Annelida,-2.018177138,12.93333333,9.637551203,0.019333333,2,1,0,0,1,0,0,0,0,0
+79,472133,Tanaididae,3,Tanaidacea,Malacostraca,Arthropoda (Crustacea),-2.272226834,3.095454545,3.614713412,0.00705303,2,3,1,0,1,6,0,0,0,0
+3,1025634,Terebella,12,Terebellida,Polychaeta,Annelida,-2,18,2.463259853,0.01,3,0,0,0,1,0,0,0,0,0
+22,504423,Terebridae,6,Terebridae,Gastropoda,Mollusca,-2.297929382,3.613333333,3.720070804,0.006133333,4,3,1,0,0,1,0,0,1,0
+84,440328,Tetraliidae,4,Tetraliidae ,Malacostraca,Arthropoda (Crustacea),-0.842047496,6.583333333,99.00888396,0.224666667,2,4,1,0,1,4,0,0,0,1
+119,238725,Toxopneustes,14,Toxopneustidae,Echinoidea,Echinodermata,-0.866461092,7.9,90.51738787,0.136,2,1,1,0,0,0,1,1,0,0
+83,211910,Trapeziidae,4,Trapeziidae,Malacostraca,Arthropoda (Crustacea),-0.974986002,6.476243094,117.3797313,0.312883978,2,4,1,0,1,4,0,0,0,1
+30,833256,Falsicingulidae,6,Triphoridae,Gastropoda,Mollusca,-2.400601926,3.2875,3.19774598,0.004875,4,3,1,0,0,1,0,0,1,0
+37,710383,Triviidae,6,Triviidae,Gastropoda,Mollusca,-1.283996656,4.5,35.29562079,0.052,4,3,1,0,0,1,0,0,1,0
+57,717803,Trochidae,5,Trochidae,Gastropoda,Mollusca,-1.037,8.471428571,957.9373264,1.717428571,4,2,1,0,0,1,0,0,1,0
+27,504420,Turbinellidae,6,Turbinellidae,Gastropoda,Mollusca,-2.301029996,2.1,1.058136878,0.005,4,3,1,0,0,1,0,0,1,0
+58,407513,Turbinidae,5,Turbinidae,Gastropoda,Mollusca,-2.069635414,2.738,82.11691491,0.14344,4,2,1,0,0,1,0,0,1,0
+21,94049,Turridae,6,Turridae,Gastropoda,Mollusca,-2.197621246,4.075,6.549914597,0.00975,4,3,1,0,0,1,0,0,1,0
+63,1002136,Cyamiidae,8,Veneridae,Bivalvia,Mollusca,-1.602059991,5.3,17.67475131,0.025,3,1,1,0,0,1,0,0,2,0
+31,967615,Vermetidae,7,Vermetidae,Gastropoda,Mollusca,-2,6.3,5.852865839,0.01,3,1,1,0,0,1,0,0,1,0
+19,504418,Volutidae,6,Volutidae,Gastropoda,Mollusca,-2.162743853,2.7,4.038702886,0.007714286,4,3,1,0,0,1,0,0,1,0
+85,7696074,Xanthidae,1,Xanthidae,Malacostraca,Arthropoda (Crustacea),-1.886950634,3.222813688,29.09694551,0.034003802,2,1,1,0,1,4,0,0,0,0
